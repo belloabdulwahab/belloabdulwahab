@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Bello Abdulwahab 👋
 
-<!--
-**belloabdulwahab/belloabdulwahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer  
+🎓 Electronic & Computer Engineering Student (LASU)  
+🏫 KCOB  
+🔐 Aspiring Cybersecurity Specialist  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a passionate developer focused on building real-world web applications and improving my skills in backend and frontend development. I enjoy solving problems and learning how systems work under the hood.
+
+---
+
+## 🛠 Tech Stack
+- HTML, CSS, Bootstrap, JavaScript  
+- PHP & MySQL  
+- Python (basic)  
+- Git & GitHub  
+
+---
+
+## 💼 Projects
+- Mr Yusuf Teacher Platform (Full Stack Web App)
+
+---
+
+## 📈 Current Focus
+- Improving backend development and security skills  
+- Learning cybersecurity fundamentals  
+- Building more real-world projects  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/belloabdulwahab
+- Email: belloabdulwahab266@gmail.com
+- WhatsApp: 09070602504
